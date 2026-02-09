@@ -1,1 +1,1 @@
-Proyecto que contiene la tesis que hice en la UNAM
+Proyecto que contiene la tesis que hice en la UNAM, esta version es pública para las futuras generaciones de estudiantes
