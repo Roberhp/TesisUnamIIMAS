@@ -1,0 +1,4 @@
+SEED = 42
+LANGUAGE = "english"
+
+STOP_WORDS = LANGUAGE
