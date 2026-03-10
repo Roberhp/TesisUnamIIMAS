@@ -25,11 +25,11 @@ artifacts/
 *.ipynb
 
 # ===============================
-# Datos y resultados (NO versionar)
+# Datos, modelos y resultados (NO versionar)
 # ===============================
 data/*.csv
 outputs/
-
+models/
 
 # ===============================
 # Logs y variables de entorno
@@ -43,7 +43,7 @@ outputs/
 # ===============================
 * copy.py
 *~ 
-util_reducido.py
+util*.py
 
 # ===============================
 # macOS
