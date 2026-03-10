@@ -1,0 +1,76 @@
+# ===============================
+# Python
+# ===============================
+*.py[cod]
+*$py.class
+*.pyc
+
+# ===============================
+# Entornos virtuales
+# ===============================
+.venv/
+venv/
+env/
+test_env/
+
+# ===============================
+# Artifacts
+# ===============================
+artifacts/
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+*.ipynb
+
+# ===============================
+# Datos, modelos y resultados (NO versionar)
+# ===============================
+data/
+outputs/
+models/
+
+# ===============================
+# Logs y variables de entorno
+# ===============================
+*.log
+.env
+.env.test
+
+# ===============================
+# Archivos de respaldo / copias
+# ===============================
+* copy.py
+*~ 
+util*.py
+
+# ===============================
+# macOS
+# ===============================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ===============================
+# iCloud
+# ===============================
+*.icloud
