@@ -4,3 +4,8 @@ scikit-learn
 scipy
 torch
 optuna
+nltk
+xgboost
+joblib
+fastapi
+uvicorn
