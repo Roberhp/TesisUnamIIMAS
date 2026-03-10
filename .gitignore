@@ -27,7 +27,7 @@ artifacts/
 # ===============================
 # Datos, modelos y resultados (NO versionar)
 # ===============================
-data/*.csv
+data/
 outputs/
 models/
 
