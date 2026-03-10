@@ -1,7 +1,4 @@
-
-
-
-from src.data.preprocess import preprocess_text
+from features.text_cleaning import preprocess_text
 
 
 def predict_proba_aligned(texts, model, vectorizer, representation, label_encoder, lda_model=None):
